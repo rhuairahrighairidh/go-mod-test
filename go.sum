@@ -1,0 +1,7 @@
+github.com/rhuairahrighairidh/go-mod-test-common v0.3.0/go.mod h1:aGuD8kQhhlHjtrB05EavACW7nUTBu7L1uuCLEMMYgoM=
+github.com/rhuairahrighairidh/go-mod-test-common v0.4.0 h1:X50aWoKPGBdNzXximIdo44Fg9NsozxrsuRKor9VZI0E=
+github.com/rhuairahrighairidh/go-mod-test-common v0.4.0/go.mod h1:aGuD8kQhhlHjtrB05EavACW7nUTBu7L1uuCLEMMYgoM=
+github.com/rhuairahrighairidh/go-mod-test-depA v0.1.0 h1:lkrb0s5XEGDL3ossDALH0VWGgJJn+a90s5xQcernrhc=
+github.com/rhuairahrighairidh/go-mod-test-depA v0.1.0/go.mod h1:jRF5M2C25mNW7cPheo2wS/x7c1LzR4bG++XAyR860QU=
+github.com/rhuairahrighairidh/go-mod-test-depB v0.1.0 h1:+z3rRTHF5aTqGqOsfUcMQWQfQ4cnpmcILuCbCVG7ZPQ=
+github.com/rhuairahrighairidh/go-mod-test-depB v0.1.0/go.mod h1:iK/XIVQj81Ag83bFCchDkeL/HrRvtwknp0FIo52Gm/0=
